@@ -17,8 +17,8 @@ public static void main(String[] args)
 	s1.display();
 	s1.display1();
 	s1.rollno=22;
-	System.out.println("RollNo:"+s1.rollno);
+	System.out.println("RollNo is:"+s1.rollno);
 	s1.age=21;
-	System.out.println("Äge:"+s1.age);
+	System.out.println("Äge is:"+s1.age);
 }
 }
