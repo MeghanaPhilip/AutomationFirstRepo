@@ -24,7 +24,7 @@ public class Day3_1 {
 
 	public Day3_1(int a,int b)
 	{
-	this(1,2,8);
+	this(1,2,7);
 	System.out.println("Two parameterised Constructor");
 }
 	
