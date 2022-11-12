@@ -5,7 +5,7 @@ int rollno;
 int age;
 public void display()
 {
-	System.out.println("Welcome to all of you");
+	System.out.println("Welcome ");
 }
 public void display1()
 {
