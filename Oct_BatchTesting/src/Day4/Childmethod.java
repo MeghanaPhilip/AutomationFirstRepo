@@ -15,7 +15,7 @@ public class Childmethod extends Parentmethod {
 				System.out.println("Child Three Parameterised method");
 			}
 			
-			public void method7(int c)
+			public void method7(int k)
 			{
 				
 				System.out.println("Child One Parameterised method");
