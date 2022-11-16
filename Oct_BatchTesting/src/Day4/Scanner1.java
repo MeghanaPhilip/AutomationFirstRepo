@@ -36,13 +36,13 @@ public class Scanner1 {
     	 int e=s.nextInt();
     	 int f=s.nextInt();
     	 int res=s1.sum(a, b);
-    	 System.out.println("The result1:"+res);
+    	 System.out.println("The result1 :"+res);
 		 int res2=s1.sum(res, c);
-		 System.out.println("The result2:"+res2);
+		 System.out.println("The result2 :"+res2);
 		 int res3=s1.diff(res2, d);
-		 System.out.println("The result3:"+res3);
+		 System.out.println("The result3 :"+res3);
 		 int res4=s1.mul(res3, e);
-		 System.out.println("The result4:"+res4);
+		 System.out.println("The result4 :"+res4);
 		 s1.div(res4, f);
 		
 

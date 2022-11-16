@@ -5,7 +5,7 @@ public class Child4 extends Program4 {
 
 		public Child4() 
 		{
-		    this(2,4);
+		    this(1,8);
 			System.out.println("Child Default constructor");
 		}
 		public Child4(int d,int e, int f)

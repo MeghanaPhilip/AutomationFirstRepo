@@ -4,7 +4,7 @@ public class Childmethod extends Parentmethod {
 
 			public void method5() 
 			{
-			   super.method4(2,6);
+			   super.method4(2,3);
 			   this.method7(1);
 			   this.method6(1,5,8);
 			   this.method8(1,5);

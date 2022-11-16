@@ -5,7 +5,7 @@ public class Parentmethod {
 
 		public void method1()
 		{
-			this.method2(2,3,5);
+			this.method2(2,8,5);
 			System.out.println("Parent Default method");
 			
 		}

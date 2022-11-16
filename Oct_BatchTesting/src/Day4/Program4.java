@@ -4,7 +4,7 @@ public class Program4 {
 
 	public Program4()
 	{
-		this(2,3,5);
+		this(2,3,10);
 		System.out.println("Parent Default constructor");
 		
 	}
